@@ -1,0 +1,6 @@
+name = "Views Book Table of Contents"
+description = "Provides a default view and display handler for table of contentsdisplays of book structures."
+core = 6.x
+package = Views
+dependencies[] = views
+dependencies[] = book

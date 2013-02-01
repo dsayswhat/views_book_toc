@@ -1,0 +1,13 @@
+<?php
+
+/***
+ * implementation of hook_views_api
+ */
+
+function views_book_toc_views_api() {
+  return array(
+      'api' => 2,
+      );
+}
+
+
